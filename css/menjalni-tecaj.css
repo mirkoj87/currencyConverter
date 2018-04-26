@@ -1,0 +1,60 @@
+.main-panel{
+	margin-top:200px
+}
+	
+div.row{
+	padding:10px
+}
+.header{
+		background-color: 	#8B0000;
+		color: bisque;
+		font-weight: bold;
+}	
+
+.panel{
+	border-color: 	#8B0000;
+	border-style: solid;
+	border-width: 2px;
+	border-radius: 10px;
+	background-color: rgba(139,0,0,0.1);
+}
+#result {
+	padding-left: 10px;
+	font-weight: bold;
+	color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+.amount_class {
+	padding-top: 5px;
+}
+.container {
+	width: 40%;
+}
+.myPanel {
+	max-width:100% !important;
+}
+.result_row {
+	margin-top:20px;
+	padding: 21px !important;
+}
+
+body {
+	background-image: url("../images/finance-exchange-wide.jpg");
+ }
+.uni {
+	 font-size: 20px;
+	 font-weight: bold;
+ }
+ .header span {
+	text-align: center;
+	width: 100%;
+ }
+ .last_update p{
+	 text-align: right;
+	 color: white;
+	     text-shadow: 2px 2px 4px #000000;
+ }
+ 
+ .fnone {
+	 width:36px !important;
+ }
